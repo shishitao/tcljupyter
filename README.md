@@ -2,7 +2,8 @@
 
 Refresh your mind about the syntax of tcl by using the Binder, a cloud version of Jupyter Notebook.
 
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shishitao/tcljupyter/5a9c5427135f7ab0007460b10f7766c93633d5cf) (examples/tcl_commands.ipynb)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shishitao/tcljupyter/5a9c5427135f7ab0007460b10f7766c93633d5cf) (examples directory)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shishitao/tcljupyter/5a9c5427135f7ab0007460b10f7766c93633d5cf?filepath=examples%2Ftcl_commands.ipynb) (tcl_commands.ipynb)
 
 ## Installation
 
