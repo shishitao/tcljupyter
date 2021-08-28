@@ -1,4 +1,8 @@
+## Tcl Command Tutorial
 
+Refresh your mind about the syntax of tcl by using the Binder, a cloud version of Jupyter Notebook.
+
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shishitao/tcljupyter/binder?filepath=examples%2Fexample.ipynb) (with binary zmq library)
 
 ## Installation
 
